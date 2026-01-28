@@ -104,6 +104,8 @@
     "image_preview_description": "Mez-granda bildo, sen metadatumoj, uzata por montri unuopan bildon, kaj por maŝin-lernado",
     "image_preview_quality_description": "Kvalito de antaŭvido, inter 1 kaj 100. Pli alta numero indikas pli altan kvaliton, sed ankaŭ kreas pli grandajn dosierojn, kiuj povas malrapidigi uzadon de la apo. Tro malalta numero povas noci la maŝin-lernadon.",
     "image_preview_title": "Agordoj pri antaŭvidoj",
+    "image_progressive": "Poiome",
+    "image_progressive_description": "Kodigi JPEG-bildojn por poioma vidigo dum ŝargado. Tio ŝanĝas nenion por WebP-bildoj.",
     "image_quality": "Kvalito",
     "image_resolution": "Distingivo",
     "image_resolution_description": "Alta distingivo povas konservi pli da detaloj en bildoj sed postulas pli da tempo por trakti, donas pli grandajn dosierojn por stokie, kaj povas malrapidigi uzadon de la apo.",
